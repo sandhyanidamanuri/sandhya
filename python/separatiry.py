@@ -1,0 +1,6 @@
+# to print  saparet by numbers with spl charters like(@,#,$,%,)
+print(1)
+print(1,2, sep='#')
+print(1,2,3, sep='%')
+print(1,2,3,4, sep='@')
+print(1,2,3,4,5, sep='!')
